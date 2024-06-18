@@ -6,9 +6,9 @@
 
 ## Contacto
 
-- **Correo Electrónico**: [tu_email@example.com](mailto:gerardo.dvp@hotmail.com)
-- **LinkedIn**: [tu_perfil_linkedin]([https://www.linkedin.com/in/tu_perfil_linkedin/](https://www.linkedin.com/in/gerardo-daniel-velasco-piza%C3%B1a-913545222/))
-- **GitHub**: [github.com/tu_usuario](https://github.com/DannyRetohs)
+- **Correo Electrónico**: [gerardo.dvp@hotmail.com](mailto:gerardo.dvp@hotmail.com)
+- **LinkedIn**: [Gerardo Velasco](https://www.linkedin.com/in/gerardo-daniel-velasco-piza%C3%B1a-913545222/)
+- **GitHub**: [@DannyRetohs](https://github.com/DannyRetohs)
 
 ## Tecnologías y Herramientas
 <h3 align="left">Languages and Tools:</h3>
