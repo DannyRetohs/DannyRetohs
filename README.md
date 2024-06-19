@@ -1,24 +1,7 @@
-<style>
-    .retohs, .graff {
-        font-family: Arial, sans-serif;
-        font-weight: bold;
-        font-size: 50px;
-    }
-    .retohs {
-        color: gray;
-    }
-    .graff {
-        color: #650D1E; 
-    }
-    .no-space {
-        display: inline-block;
-        margin: 0;
-        padding: 0;
-    }
-</style>
-<div>
-    <span class="retohs no-space">RETOHS</span><span class="graff no-space">GRAFF</span>
+<div style="font-family: Arial, sans-serif; font-weight: bold; font-size: 50px;">
+    <span style="color: gray;">RETOHS</span><span style="color: #650D1E;">GRAFF</span>
 </div>
+
 
 
 # Danny - Programador Mobile 💻 📱
