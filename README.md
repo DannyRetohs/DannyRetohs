@@ -31,3 +31,10 @@
             <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
         </a>
     </p>
+
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=DannyRetohs&&style=flat-square" align="center" />
+</div>  
