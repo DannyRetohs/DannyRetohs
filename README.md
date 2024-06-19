@@ -1,9 +1,3 @@
-<div style="font-family: Arial, sans-serif; font-weight: bold; font-size: 50px;">
-    <span style="color: gray;">RETOHS</span><span style="color: #650D1E;">GRAFF</span>
-</div>
-
-
-
 # Danny - Programador Mobile 💻 📱
 ¡Hola! Soy Danny, un desarrollador de aplicaciones móviles con experiencia en aplicaciones híbridas y nativas. Me apasiona crear aplicaciones eficientes y funcionales que brinden una excelente experiencia de usuario.
 
