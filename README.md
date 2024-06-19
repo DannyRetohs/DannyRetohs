@@ -1,24 +1,25 @@
 <style>
-        .retohs, .graff {
-            font-family: Arial, sans-serif;
-            font-weight: bold;
-            font-size: 50;
-        }
-        .retohs {
-            color: gray;
-        }
-        .graff {
-            color: #650D1E; 
-        }
-        .no-space {
-            display: inline-block;
-            margin: 0;
-            padding: 0;
-        }
-    </style>
-        <div>
-        <span class="retohs no-space">RETOHS</span><span class="graff no-space">GRAFF</span>
-    </div>
+    .retohs, .graff {
+        font-family: Arial, sans-serif;
+        font-weight: bold;
+        font-size: 50px;
+    }
+    .retohs {
+        color: gray;
+    }
+    .graff {
+        color: #650D1E; 
+    }
+    .no-space {
+        display: inline-block;
+        margin: 0;
+        padding: 0;
+    }
+</style>
+<div>
+    <span class="retohs no-space">RETOHS</span><span class="graff no-space">GRAFF</span>
+</div>
+
 
 # Danny - Programador Mobile 💻 📱
 ¡Hola! Soy Danny, un desarrollador de aplicaciones móviles con experiencia en aplicaciones híbridas y nativas. Me apasiona crear aplicaciones eficientes y funcionales que brinden una excelente experiencia de usuario.
