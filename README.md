@@ -1,4 +1,4 @@
-<img src="https://scontent.fmex43-1.fna.fbcdn.net/v/t1.6435-9/148112629_3931222103594553_5195238692274598545_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=nQMBgjPai7kQ7kNvgGw3joX&_nc_ht=scontent.fmex43-1.fna&oh=00_AYBVnu2JihYWF7pbJpbDnDgUrU7gjaBAhV4TF4TsHFwt5A&oe=6699A76E"  />
+<img src="https://scontent.fmex43-1.fna.fbcdn.net/v/t1.6435-9/148112629_3931222103594553_5195238692274598545_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=nQMBgjPai7kQ7kNvgGw3joX&_nc_ht=scontent.fmex43-1.fna&oh=00_AYBVnu2JihYWF7pbJpbDnDgUrU7gjaBAhV4TF4TsHFwt5A&oe=6699A76E"  width="800" />
 # Danny - Programador Mobile
 ¡Hola! Soy Danny, un desarrollador de aplicaciones móviles con experiencia en aplicaciones híbridas y nativas. Me apasiona crear aplicaciones eficientes y funcionales que brinden una excelente experiencia de usuario.
 
