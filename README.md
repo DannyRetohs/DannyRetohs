@@ -5,7 +5,7 @@
 ### Contacto
 - **Correo Electrónico**: [gerardo.dvp@hotmail.com](mailto:gerardo.dvp@hotmail.com)
 - **LinkedIn**: [Gerardo Velasco](https://www.linkedin.com/in/gerardo-daniel-velasco-piza%C3%B1a-913545222/)
-- **GitHub**: [@DannyRetohs](https://github.com/DannyRetohs)
+- **GitHub**: [DannyRetohs](https://github.com/DannyRetohs)
 
 ### Skills
 #### Mobile App Development
