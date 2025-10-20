@@ -3,6 +3,7 @@
 
 ### Contacto
 - **Correo Electrónico**: [gerardo.dvp@hotmail.com](mailto:gerardo.dvp@hotmail.com)
+- **Correo Electrónico 2**: [gerardo.dvp14@gmail.com](mailto:gerardo.dvp14@gmail.com)
 - **LinkedIn**: [Gerardo Velasco](https://www.linkedin.com/in/gerardo-daniel-velasco-piza%C3%B1a-913545222/)
 - **GitHub**: [DannyRetohs](https://github.com/DannyRetohs)
 
