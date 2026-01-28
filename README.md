@@ -1,132 +1,100 @@
-# 🧬 DESARROLLADOR MOBILE | NATIVO & HÍBRIDO | GAME DEV
+# 👨‍💻 Desarrollador Mobile | iOS (Swift) | Android (Kotlin) | Flutter
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=20&pause=1500&color=FC4C02&center=true&vCenter=true&width=900&lines=DESARROLLO+MÓVIL+NATIVO+Y+MULTIPLATAFORMA;FLUTTER+%7C+FLAME+ENGINE+%7C+SWIFT+%7C+KOTLIN;VIDEOJUEGOS+Y+APPS+DE+ALTO+RENDIMIENTO;EXPERIENCIAS+INMERSIVAS+EN+IOS+Y+ANDROID;LA+CONEXIÓN+ES+INESTABLE.+CONFÍA+EN+LA+VISIÓN" alt="Mobile Dev Terminal" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=18&pause=1800&color=2F80ED&center=true&vCenter=true&width=900&lines=Desarrollo+de+aplicaciones+móviles+en+entornos+productivos;iOS+con+Swift+%7C+Android+con+Kotlin+%7C+Flutter+multiplataforma;Arquitectura+escalable+en+apps+y+proyectos+reales;Enfoque+en+calidad,+rendimiento+y+experiencia+de+usuario" alt="Mobile Developer" />
 </p>
 
 ---
 
-## 📖 Sobre Mí
+## Perfil Profesional
 
-Soy desarrollador mobile con experiencia tanto en **apps nativas (iOS con Swift y Android con Kotlin)** como en **desarrollo multiplataforma con Flutter**.  
-Me especializo en construir **aplicaciones de alto rendimiento** y **videojuegos móviles** usando **Flame Engine**, cuidando arquitectura, UX y sincronización en tiempo real.
+Desarrollador mobile con experiencia en **aplicaciones nativas para iOS y Android**, así como en soluciones **multiplataforma con Flutter**.  
+He participado en proyectos productivos realizando **mantenimiento, desarrollo de nuevas funcionalidades, integración de servicios backend y despliegue en tiendas**.
 
-Trabajo en proyectos productivos, mantenimiento, nuevas funcionalidades y publicación en tiendas, combinando **backend, frontend y lógica de negocio móvil**.
-
----
-
-## 🎯 Mis Especialidades
-
-<div align="center">
-
-![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Flame](https://img.shields.io/badge/Flame_Engine-Expert-E34F26?style=for-the-badge&logo=flame&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS_Swift-Native-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![Android](https://img.shields.io/badge/Android_Kotlin-Native-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Game Dev](https://img.shields.io/badge/Game_Development-Real_Time-8A2BE2?style=for-the-badge)
-![Mobile](https://img.shields.io/badge/Mobile_Apps-Production-61DAFB?style=for-the-badge)
-
-</div>
+Cuento con enfoque en **arquitectura limpia, rendimiento, estabilidad y experiencia de usuario**, además de experiencia trabajando con equipos de backend, diseño y producto.
 
 ---
 
-## 🎮 Proyecto Destacado: Horror Psicológico Co-op
+## Competencias Técnicas
 
-### 🌌 Videojuego móvil cooperativo en tiempo real
-
-**Descripción:**  
-Juego de horror psicológico y ciencia ficción con mecánicas cooperativas, comunicación por red y efectos visuales dinámicos.
-
-**🛠️ Stack Tecnológico:**
-- Motor: Flame Engine 1.x
-- Framework: Flutter 3.x
-- Networking: WebSockets / Socket.IO
-- Backend: Firebase
-- Plataformas: iOS & Android
-
-**⚡ Logros Técnicos:**
-- ✅ Sincronización en tiempo real entre jugadores
-- ✅ Arquitectura de red de baja latencia
-- ✅ Sistema de iluminación 2D dinámico
-- ✅ Optimización para 60 FPS en gama media
-- ✅ Gestión de estados y escenas escalable
-
----
-
-## 📱 Experiencia en Apps Nativas
-
-### 🍎 iOS (Swift / UIKit / SwiftUI)
+### 📱 Desarrollo Mobile
+- iOS con **Swift** (UIKit, SwiftUI)
+- Android con **Kotlin** (XML, Jetpack)
+- Flutter para desarrollo multiplataforma
 - Integración de APIs REST
-- Manejo de JSON complejos
-- Carga de imágenes (Kingfisher)
-- Subida de documentos y multimedia
-- Persistencia local (Realm)
-- Publicación y TestFlight
+- Manejo de estados y flujos de navegación
+- Optimización de rendimiento y memoria
 
-### 🤖 Android (Kotlin / XML / Jetpack)
-- ViewBinding y DataBinding
-- Firebase (Auth, Firestore, ML Kit)
-- Glide, Lottie, Navigation Component
-- Inyección de dependencias (Dagger / Hilt)
-- Build con Gradle + Kapt
-- Play Store y pruebas internas
+### 🧩 Arquitectura y Calidad
+- MVC / MVVM
+- Separación por capas
+- Clean Code
+- Refactorización y mantenimiento de código legado
+
+### 🔥 Backend & Servicios
+- Firebase (Auth, Firestore, Storage, ML Kit)
+- WebSockets / Socket.IO
+- Manejo de errores y control de estados de red
+
+### 🚀 Publicación y Operación
+- TestFlight y App Store Connect
+- Play Console (tracks internos y producción)
+- Versionamiento con Git
+- Manejo de dependencias (Gradle, CocoaPods, SPM)
 
 ---
 
-## 🛠️ Mi Stack Tecnológico
+## Experiencia en Desarrollo de Videojuegos (Mobile)
+
+Además de aplicaciones empresariales, cuento con experiencia desarrollando **videojuegos móviles 2D** utilizando:
+
+- Flutter + Flame Engine
+- Sincronización en tiempo real
+- Optimización de FPS
+- Gestión de escenas y estados de juego
+- Arquitectura orientada a componentes
+
+Este enfoque ha fortalecido mis habilidades en **renderizado, performance y programación orientada a eventos**, aplicables también a aplicaciones de alto tráfico.
+
+---
+
+## Stack Tecnológico
 
 <div align="center">
 
-### 🎮 Game Development
-![Flame](https://img.shields.io/badge/Flame_Engine-v1.x-E34F26?style=flat-square)
-![Flutter](https://img.shields.io/badge/Flutter_Game_SDK-3.x-02569B?style=flat-square)
-
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?style=flat-square&logo=flutter)
-![Swift](https://img.shields.io/badge/Swift-iOS-F05138?style=flat-square&logo=swift)
-![Kotlin](https://img.shields.io/badge/Kotlin-Android-7F52FF?style=flat-square&logo=kotlin)
-
-### 🔥 Backend & Tools
-![Firebase](https://img.shields.io/badge/Firebase-Advanced-FFCA28?style=flat-square&logo=firebase)
-![Git](https://img.shields.io/badge/Git-Expert-F05032?style=flat-square&logo=git)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-Realtime-black?style=flat-square)
+![Swift](https://img.shields.io/badge/Swift-iOS-F05138?style=flat-square&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-Android-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-Cross_Platform-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-Backend-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <div align="center">
 
-![Danny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DannyRetohs&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DannyRetohs&show_icons=true&theme=default&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DannyRetohs&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DannyRetohs&layout=compact&hide_border=true)
 
 </div>
 
 ---
 
-## 📫 Contacto
+## Contacto Profesional
 
 <div align="center">
-
-### 💌 ¿Tienes un proyecto o vacante mobile? Conectemos
 
 ✉️ **Email:** [gerardo.dvp@hotmail.com](mailto:gerardo.dvp@hotmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerardo-daniel-velasco-piza%C3%B1a-913545222/)
-[![GitHub](https://img.shields.io/badge/GitHub-Ver_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DannyRetohs)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Próximamente-8A2BE2?style=for-the-badge)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil_Profesional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerardo-daniel-velasco-piza%C3%B1a-913545222/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositorios-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DannyRetohs)
 
 </div>
 
 ---
 
-<div align="center">
-
-### 👁️ Visitas al perfil
-![Profile Views](https://komarev.com/ghpvc/?username=DannyRetohs&color=8A2BE2&style=for-the-badge&label=VISITAS)
-
-**"Construyendo experiencias móviles de alto rendimiento en iOS y Android"** 🚀
-
-</div>
+**Interesado en colaborar en proyectos de desarrollo móvil, mantenimiento de apps productivas y soluciones multiplataforma.**
