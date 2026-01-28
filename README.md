@@ -7,7 +7,7 @@
 ### 🚀 **Desarrollador Mobile Especializado en Flutter & Flame**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5D3FD3&center=true&vCenter=true&width=600&lines=Apasionado+por+el+desarrollo+de+videojuegos+móviles;Experto+en+Flutter+y+Flame+Engine;Creador+de+experiencias+inmersivas+y+cooperativas" alt="Descripción animada" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5D3FD3&center=true&vCenter=true&width=600&lines=ApApasionado+por+el+desarrollo+de+videojuegos+móviles;Experto+en+Flutter+y+Flame+Engine;Creador+de+experiencias+inmersivas+y+cooperativas" alt="Descripción animada" />
 </p>
 
 </div>
