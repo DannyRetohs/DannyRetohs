@@ -1,14 +1,4 @@
 # Hi there, I'm Danny! 👋
-### 📱 Mobile Developer | Flutter & Flame Engine Specialist 🚀
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flame-E34F26?style=for-the-badge&logo=flame&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
----
 
 ### 👨‍💻 Sobre mí
 Soy un desarrollador mobile enfocado en exprimir al máximo las capacidades de **Flutter**. No solo construyo aplicaciones, sino que exploro el potencial de los videojuegos móviles utilizando el motor **Flame**.
@@ -37,14 +27,6 @@ Soy un desarrollador mobile enfocado en exprimir al máximo las capacidades de *
 - **Desafío Técnico:** Sincronización de componentes de Flame con estados de Flutter para mecánicas cooperativas en tiempo real.
 - **Tecnologías Clave:** **Flame Engine**, WebSockets/Firebase para multiplayer y sistemas de iluminación dinámica 2D.
 - **Logros:** Arquitectura de red optimizada para baja latencia y gestión de recursos para asegurar 60 FPS en dispositivos de gama media.
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DannyRetohs&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannyRetohs&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
