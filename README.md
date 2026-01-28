@@ -1,111 +1,104 @@
-# 🧬 DESARROLLADOR MOBILE | FLUTTER & FLAME ENGINE
-
-<div align="center">
-
-## 🔷 **DANNY VELASCO** 🔶
-### *EL AGARRE DEL TEJEDOR*
-
+# 🧬 DESARROLLADOR MOBILE | NATIVO & HIBRIDO
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=20&pause=1500&color=FC4C02&center=true&vCenter=true&width=650&lines=APASIONADO+POR+EL+DESARROLLO+DE+VIDEOJUEGOS+MÓVILES;EXPERTO+EN+FLUTTER+Y+FLAME+ENGINE;CREADOR+DE+EXPERIENCIAS+INMERSIVAS+Y+COOPERATIVAS;LA+CONEXIÓN+ES+INESTABLE.+CONFÍA+EN+LA+VISIÓN" alt="Coditti Terminal" />
 </p>
 
+
 </div>
 
 ---
 
-## 🔵 **SOBRE MÍ** 🟠
+## 📖 **Sobre Mí**
 
-Soy un desarrollador especializado en llevar **Flutter** más allá de las aplicaciones convencionales, explorando su potencial en el desarrollo de videojuegos móviles utilizando **Flame Engine**. Mi enfoque está en crear experiencias inmersivas con arquitecturas escalables y alto rendimiento visual.
+Soy un desarrollador apasionado por llevar **Flutter** más allá de las aplicaciones convencionales, explorando su potencial en el desarrollo de videojuegos móviles utilizando **Flame Engine**. Mi enfoque está en crear experiencias inmersivas con alto rendimiento visual y arquitecturas escalables.
 
 <div align="center">
 
-### **ESPECIALIDADES TÉCNICAS**
+### 🎯 **Mis Especialidades**
 
-![Flutter](https://img.shields.io/badge/FLUTTER-EXPERT-009CDE?style=for-the-badge&logo=flutter&logoColor=white)
-![Flame](https://img.shields.io/badge/FLAME_ENGINE-EXPERT-FC4C02?style=for-the-badge&logo=flame&logoColor=white)
-![Game Dev](https://img.shields.io/badge/GAME_DEVELOPMENT-CORE-8A2BE2?style=for-the-badge)
-![Architecture](https://img.shields.io/badge/ARCHITECTURE-SCALABLE-61DAFB?style=for-the-badge)
+![Flutter](https://img.shields.io/badge/FLUTTER-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Flame](https://img.shields.io/badge/FLAME_ENGINE-Expert-E34F26?style=for-the-badge&logo=flame&logoColor=white)
+![Game Dev](https://img.shields.io/badge/GAME_DEVELOPMENT-Passion-8A2BE2?style=for-the-badge)
+![Mobile](https://img.shields.io/badge/MOBILE_APPS-Specialist-61DAFB?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🎮 **PROYECTO DESTACADO: HORROR PSICOLÓGICO CO-OP**
+## 🎮 **Proyecto Destacado: Horror Psicológico Co-op**
 
 <div align="center">
   
-### **🌌 UNA EXPERIENCIA ÚNICA | FLUTTER + FLAME**
+### 🌌 **Una experiencia única construida con Flutter + Flame**
 
 </div>
 
-**DESCRIPCIÓN:** Videojuego móvil de horror psicológico y ciencia ficción con mecánicas cooperativas en tiempo real. Una experiencia donde la **visión** y el **dolor** se entrelazan.
+**Descripción:** Videojuego móvil de horror psicológico y ciencia ficción con mecánicas cooperativas en tiempo real.
 
-**🛠️ STACK TECNOLÓGICO:**
+**🛠️ Stack Tecnológico:**
+- Motor del Juego: Flame Engine 1.x
+- Framework: Flutter 3.x
+- Backend: Firebase + WebSockets
+- Plataformas: iOS & Android
 
-
-**⚡ LOGROS TÉCNICOS:**
-- 🔷 **SINCRONIZACIÓN** en tiempo real para gameplay cooperativo
-- 🔶 **60 FPS** estables en dispositivos de gama media
-- 🔷 **SISTEMA** de iluminación dinámica 2D personalizado
-- 🔶 **ARQUITECTURA** de red optimizada para baja latencia
+**⚡ Logros Técnicos:**
+- ✅ Sincronización en tiempo real para gameplay cooperativo
+- ✅ 60 FPS estables en dispositivos de gama media
+- ✅ Sistema de iluminación dinámica 2D personalizado
+- ✅ Arquitectura de red optimizada para baja latencia
 
 ---
 
-## 🖥️ **MI STACK TECNOLÓGICO**
-- MOTOR: Flame Engine 1.x
-- FRAMEWORK: Flutter 3.x
-- BACKEND: Firebase + WebSockets
-- PLATAFORMAS: iOS & Android
-- ESTILO: Industrial Oscuro + Glitch
+## 🛠️ **Mi Stack Tecnológico**
 
 <div align="center">
 
-### **🎮 DESARROLLO DE VIDEOJUEGOS**
-![Flame Engine](https://img.shields.io/badge/FLAME_ENGINE-v1.x-FC4C02?style=flat-square&logo=flame&logoColor=white)
-![Flutter Game](https://img.shields.io/badge/FLUTTER_GAME-3.x-009CDE?style=flat-square&logo=flutter&logoColor=white)
+### **🎮 Desarrollo de Videojuegos**
+![Flame Engine](https://img.shields.io/badge/Flame_Engine-v1.x-E34F26?style=flat-square&logo=flame&logoColor=white)
+![Flutter Game](https://img.shields.io/badge/Flutter_Game_SDK-3.x-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-### **📱 FRAMEWORKS MOBILE**
-![Flutter](https://img.shields.io/badge/FLUTTER-EXPERT-009CDE?style=flat-square&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/REACT_NATIVE-INTERMEDIATE-61DAFB?style=flat-square&logo=react&logoColor=black)
+### **📱 Frameworks Mobile**
+![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-Intermediate-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-### **💻 LENGUAJES DE PROGRAMACIÓN**
-![Dart](https://img.shields.io/badge/DART-EXPERT-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/KOTLIN-INTERMEDIATE-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/SWIFT-BASICS-F05138?style=flat-square&logo=swift&logoColor=white)
+### **💻 Lenguajes de Programación**
+![Dart](https://img.shields.io/badge/Dart-Expert-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-Basics-F05138?style=flat-square&logo=swift&logoColor=white)
 
-### **🔥 BACKEND & HERRAMIENTAS**
-![Firebase](https://img.shields.io/badge/FIREBASE-ADVANCED-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-EXPERT-F05032?style=flat-square&logo=git&logoColor=white)
+### **🔥 Backend & Herramientas**
+![Firebase](https://img.shields.io/badge/Firebase-Advanced-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-Expert-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 **ESTADÍSTICAS DEL SISTEMA**
+## 📊 **Estadísticas de GitHub**
 
 <div align="center">
 
-![Danny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DannyRetohs&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=009CDE&icon_color=FC4C02&text_color=ffffff)
+![Danny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DannyRetohs&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 
-![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=DannyRetohs&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FC4C02&text_color=ffffff)
+![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=DannyRetohs&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
 </div>
 
 ---
 
-## 📡 **CONEXIÓN & CONTACTO**
+## 📫 **Contacto & Conectemos**
 
 <div align="center">
 
-### **💾 INICIAR SECUENCIA DE CONTACTO**
+### 💌 **¿Tienes un proyecto interesante? ¡Hablemos!**
 
-✉️ **TERMINAL:** [gerardo.dvp@hotmail.com](mailto:gerardo.dvp@hotmail.com)
+✉️ **Email:** [gerardo.dvp@hotmail.com](mailto:gerardo.dvp@hotmail.com)
 
-<div style="display: flex; justify-content: center; gap: 15px; margin-top: 20px;">
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-ANALIZAR_DATOS-009CDE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerardo-daniel-velasco-piza%C3%B1a-913545222/)
-[![GitHub](https://img.shields.io/badge/GITHUB-ACCESO_DIRECTO-FC4C02?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DannyRetohs)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-CARGANDO...-8A2BE2?style=for-the-badge)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Profeisonal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerardo-daniel-velasco-piza%C3%B1a-913545222/)
+[![GitHub](https://img.shields.io/badge/GitHub-Ver_Proyectos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DannyRetohs)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Próximamente-8A2BE2?style=for-the-badge)]()
 
 </div>
 
@@ -115,14 +108,9 @@ Soy un desarrollador especializado en llevar **Flutter** más allá de las aplic
 
 <div align="center">
 
-### **👁️ VISITAS AL SISTEMA**
-![Profile Views](https://komarev.com/ghpvc/?username=DannyRetohs&color=009CDE&style=for-the-badge&label=VISITAS+REGISTRADAS)
+### 👁️ **Visitas al perfil**
+![Profile Views](https://komarev.com/ghpvc/?username=DannyRetohs&color=8A2BE2&style=for-the-badge&label=VISITAS)
 
-**"CONSTRUYENDO EL FUTURO DEL GAMING MÓVIL CON FLUTTER"** 🔷🔶
-
----
-
-**ELEMENTOS VISUALES:** 🐦 **COLIBRÍ** • 💀 **CRÁNEO** • 🌸 **FLOR DE SAKURA**  
-**ESTILO:** INDUSTRIAL OSCURO • ALTO CONTRASTE • TEXTURAS GLITCH • ACENTOS NEÓN
+**"Construyendo el futuro del gaming móvil con Flutter"** 🚀
 
 </div>
